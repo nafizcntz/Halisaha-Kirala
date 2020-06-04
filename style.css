@@ -1,0 +1,157 @@
+body {
+
+    background-image: url('arka.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    margin:0; padding:0;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+.footer {
+    height:60px;
+    width: 1000px;
+    z-index: 10;
+    /*font-family: 'Indie Flower', cursive;*/
+    font-family: 'Exo', sans-serif;
+    color: white;
+    bottom: 0;
+    left: 100px;
+    right: 100px;
+    position: fixed;
+    text-align: center;
+    float: left;
+    margin:10px auto;
+    font-size: 25px;
+    font-weight: bold;
+}
+.footer ul li {
+    width: 100px;
+    float:left;    
+    list-style-type:none;
+}
+
+
+
+*{margin:0; padding:0;}
+.menu{
+    width:1100px; 
+    
+    height:65px;      
+    margin:10px auto;
+    border-bottom:5px solid rgb(255, 255, 255);
+    font-weight: bold; 
+}
+.menu ul li {
+    width: 220px;
+    float:left;    
+    list-style-type:none;
+    
+}
+.menu ul li a{
+    text-align: center;
+    color:#fff; 
+    font-size: 25px;
+    /*font-family: 'Indie Flower', cursive;*/
+    font-family: 'Exo', sans-serif;
+    text-decoration:none;
+    display: grid; 
+    padding:14px 15px;
+    transition:all .5s;
+    -webkit-transition:all .5s;
+    -moz-transition:all .5s;
+}
+.menu ul li a:hover{
+    color: rgb(39, 42, 43);
+    background: rgba(255, 255, 255, 0.2); 
+    backdrop-filter: blur(8px);
+}
+
+
+.main{
+    /*
+    margin-left:450px;
+    height: 100px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Indie Flower', cursive;
+    color: white;
+    margin:0 auto;
+    text-align:center;
+*/
+
+
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    font-weight: bold;
+   /* font-family: 'Indie Flower', cursive;*/
+    font-family: 'Exo', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+.main div u{
+    font-family: 'Julius Sans One', sans-serif;
+    
+}
+
+ 
+input {
+    margin-right: 50px;
+    border: 1px solid white;
+    box-sizing: border-box;
+    color: black;
+    display: block;
+    font-size: 15px;
+    font-weight: bold;
+   /* font-family: 'Indie Flower', cursive;*/
+    font-family: 'Exo', sans-serif;
+  }
+  
+ 
+.uyeHaliSahalarTable tr:hover{
+    background: red;
+}
+
+ 
+.uyeHaliSahalarTable table th,td{
+    border-bottom:1px solid #ddd;
+    margin:0 auto;text-align:center;
+}
+
+.uyeGirisiTable{
+    font-size: 25px;
+    color: white;
+   /* font-family: 'Indie Flower', cursive;*/
+   font-family: 'Exo', sans-serif;
+    margin-top: 170px;
+    font-weight: bold;
+    background: rgba(255, 255, 255, 0.2); 
+    backdrop-filter: blur(8px);
+
+}
+.profilTable{
+    font-size: 25px;
+    color: white;
+   /* font-family: 'Indie Flower', cursive;*/
+   font-family: 'Exo', sans-serif;
+    border-spacing: 50px;
+    background: rgba(255, 255, 255, 0.2); 
+    backdrop-filter: blur(8px);
+}
+.profilTable tr th{
+    font-weight: bold;
+ color: rgb(39, 42, 43);
+}
+.blur {
+    margin:0 auto;text-align:center;
+    background: rgba(255, 255, 255, 0.2); 
+    backdrop-filter: blur(8px);
+    height: 100vh;
+      width: 50%;
+}

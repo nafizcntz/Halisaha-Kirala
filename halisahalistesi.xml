@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<halisahalar>
+
+  <saha>  
+    <sahaadi>Ergün Penbe Halı Saha</sahaadi>
+    <il>İstanbul</il>
+    <ilce>Başakşehir</ilce>
+    <sahaucreti>325 TL</sahaucreti>
+  </saha>
+  
+  <saha>  
+    <sahaadi>Altınay Spor Kulübü Halı Saha Tesisler</sahaadi>
+    <il>İstanbul</il>
+    <ilce>Eyüp</ilce>
+    <sahaucreti>400 TL</sahaucreti>
+  </saha>
+  
+  <saha>  
+    <sahaadi>Edirnekapı Surdibi Halısahalar</sahaadi>
+    <il>İstanbul</il>
+    <ilce>Eyüp</ilce>
+    <sahaucreti>300 TL</sahaucreti>
+  </saha>
+  
+  <saha>  
+    <sahaadi>Topçuoğlu Halı Saha</sahaadi>
+    <il>İstanbul</il>
+    <ilce>Esenler</ilce>
+    <sahaucreti>325 TL</sahaucreti>
+  </saha>
+  
+  <saha>  
+    <sahaadi>Mega Halı Saha Tesisleri</sahaadi>
+    <il>İstanbul</il>
+    <ilce>Bayrampaşa</ilce>
+    <sahaucreti>325 TL</sahaucreti>
+  </saha>
+  
+  <saha>  
+    <sahaadi>Bahçeli Halı Saha</sahaadi>
+    <il>Ankara</il>
+    <ilce>Çankaya</ilce>
+    <sahaucreti>400 TL</sahaucreti>
+  </saha>
+  
+  <saha>  
+    <sahaadi>Altınpark</sahaadi>
+    <il>Ankara</il>
+    <ilce>Altındağ</ilce>
+    <sahaucreti>300 TL</sahaucreti>
+  </saha>
+  
+  <saha>
+    <sahaadi>Ülkü Kapalı Halı Saha</sahaadi>
+    <il>İzmir</il>
+    <ilce>Konak</ilce>
+    <sahaucreti>300 TL</sahaucreti>
+  </saha>
+  
+</halisahalar>
